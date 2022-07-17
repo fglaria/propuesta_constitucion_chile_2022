@@ -2,7 +2,7 @@
 
 Repositorio para poner disponible distintos formatos de la propuesta de la nueva constitución para nuestro país, y ayudar a su difusión para el plebiscito de salida el 4 de Septiembre de 2022.
 
-También se agrega en listado de formatos otros repositorios en la misma línea, con formatos ya listos.
+También se agrega un listado de otros repositorios en la misma línea, con formatos ya listos.
 
 ## Formatos:
 
