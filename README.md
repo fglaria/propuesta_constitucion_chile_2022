@@ -10,5 +10,6 @@ También se agrega un listado de otros repositorios en la misma línea, con form
 
 ## Otros repositorios:
 - [TextoNuevaConstitucionChilena](https://github.com/lnds/TextoNuevaConstitucionChilena)
+- [Nueva Constitución para Chile](https://github.com/fguinez/nueva-constitucion)
 - [Propuesta de Nueva Constitución de la República de Chile en Audio](https://github.com/rmaureira/audiopropuesta)
 - [nc_epub](https://github.com/bicubico/nc_epub)
