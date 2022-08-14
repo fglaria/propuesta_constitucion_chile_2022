@@ -4,9 +4,11 @@ Repositorio para poner disponible distintos formatos de la propuesta de la nueva
 
 También se agrega un listado de otros repositorios en la misma línea, con formatos ya listos.
 
-## Formatos:
+## Idiomas
+- [Versión PDF - Español](Texto-Definitivo-CPR-2022-Tapas.pdf)
+- [Versión PDF - Mapuzungun](Texto-constitucional_mapuzugun.pdf)
 
-- [Versión PDF](Texto-Definitivo-CPR-2022-Tapas.pdf)
+## Formatos (sólo en español):
 - [Versión TXT](Propuesta.txt)
 - [Versión Jupyter Notebook](https://github.com/lnds/TextoNuevaConstitucionChilena)
 - [Versión Markdown](https://sigloasesino.notion.site/sigloasesino/Propuesta-de-Constituci-n-Pol-tica-de-la-Rep-blica-de-Chile-7f608bbaa95244408fd96f20bfd15981)
