@@ -6,7 +6,9 @@ También se agrega un listado de otros repositorios en la misma línea, con form
 
 ## Idiomas
 - [Versión PDF - Español](Texto-Definitivo-CPR-2022-Tapas.pdf)
-- [Versión PDF - Mapuzungun](Texto-constitucional_mapuzugun.pdf)
+- [Versión PDF - Mapuzungun](Texto-constitucional_Mapuzugun.pdf)
+- [Versión PDF - Rapa Nui](Texto-constitucional_Rapa-Nui.pdf)
+- [Versión PDF - Aymara](Texto-constitucional_Aymara.pdf)
 
 ## Formatos (sólo en español):
 - [Versión TXT](Propuesta.txt)
@@ -25,3 +27,5 @@ También se agrega un listado de otros repositorios en la misma línea, con form
 - [nc_epub](https://github.com/bicubico/nc_epub)
 - [Versión Tabla periódica](https://drive.google.com/drive/folders/1rAeiTXek4t73HN5xlyTf36WXqAxe1Js_)[autor](https://twitter.com/diegotherium)
 - [Versión Metro](https://drive.google.com/drive/folders/15MxTCEiXJyfvOF9TGuDDVic4IqtR_-IF)[autor](https://twitter.com/diegotherium)
+- [Torpedo constituyente - La Cuarta](https://www.lacuarta.com/servicios/noticia/nueva-constitucion-el-resumen-que-chile-pedia/HWCTYXJLC5AOPFRG7WDGUFRX7E/)
+- [Texto en otros idiomas](https://www.chileconvencion.cl/normas-aprobadas-pleno/)
