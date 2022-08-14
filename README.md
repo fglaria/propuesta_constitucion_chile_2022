@@ -10,13 +10,18 @@ También se agrega un listado de otros repositorios en la misma línea, con form
 
 ## Formatos (sólo en español):
 - [Versión TXT](Propuesta.txt)
-- [Versión Jupyter Notebook](https://github.com/lnds/TextoNuevaConstitucionChilena)
+- [Versión Tabla Períodica](Tabla_Constitucional_Completa.png)
+- [Versión Mapa Metro](metro_nueva_constitucion.png)
+- [Versión Torpedo Constituyente](Torpedo+Constituyente.pdf)
 - [Versión Markdown](https://sigloasesino.notion.site/sigloasesino/Propuesta-de-Constituci-n-Pol-tica-de-la-Rep-blica-de-Chile-7f608bbaa95244408fd96f20bfd15981)
 - [Versión Audio (Google Cloud)](https://github.com/rmaureira/audiopropuesta)
 - [Versión EPUB](https://github.com/bicubico/nc_epub)
+- [Versión Jupyter Notebook](https://github.com/lnds/TextoNuevaConstitucionChilena)
 
-## Otros repositorios:
+## Autorías y otros enlaces:
 - [TextoNuevaConstitucionChilena](https://github.com/lnds/TextoNuevaConstitucionChilena)
 - [Nueva Constitución para Chile](https://github.com/fguinez/nueva-constitucion)
 - [Propuesta de Nueva Constitución de la República de Chile en Audio](https://github.com/rmaureira/audiopropuesta)
 - [nc_epub](https://github.com/bicubico/nc_epub)
+- [Versión Tabla periódica](https://drive.google.com/drive/folders/1rAeiTXek4t73HN5xlyTf36WXqAxe1Js_)[autor](https://twitter.com/diegotherium)
+- [Versión Metro](https://drive.google.com/drive/folders/15MxTCEiXJyfvOF9TGuDDVic4IqtR_-IF)[autor](https://twitter.com/diegotherium)
