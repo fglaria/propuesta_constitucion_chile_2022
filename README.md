@@ -11,11 +11,12 @@ También se agrega un listado de otros repositorios en la misma línea, con form
 - [Versión PDF - Aymara](Texto-constitucional_Aymara.pdf)
 
 ## Formatos (sólo en español):
-- [Versión TXT](Propuesta.txt)
 - [Versión Tabla Períodica](Tabla_Constitucional_Completa.png)
 - [Versión Mapa Metro](metro_nueva_constitucion.png)
 - [Versión Torpedo Constituyente](Torpedo+Constituyente.pdf)
 - [Versión Markdown](https://sigloasesino.notion.site/sigloasesino/Propuesta-de-Constituci-n-Pol-tica-de-la-Rep-blica-de-Chile-7f608bbaa95244408fd96f20bfd15981)
+- [Versión TXT](Propuesta.txt)
+- [Versión JSON](Propuesta.json)
 - [Versión Audio (Google Cloud)](https://github.com/rmaureira/audiopropuesta)
 - [Versión EPUB](https://github.com/bicubico/nc_epub)
 - [Versión Jupyter Notebook](https://github.com/lnds/TextoNuevaConstitucionChilena)
